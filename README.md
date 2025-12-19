@@ -1,4 +1,4 @@
-#🚦 Traffic Signal Controller Simulation (Multithreaded C Project)
+# 🚦 Traffic Signal Controller Simulation (Multithreaded C Project)
 
 This project is a multithreaded traffic signal controller simulation written in C using POSIX threads (pthreads).
 It simulates how traffic lights operate at a four-lane junction, dynamically adjusting green light duration based on vehicle load and handling emergency interruptions in real time.
